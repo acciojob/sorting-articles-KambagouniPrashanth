@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container{
+    background-image: url(https://images.pexels.com/photos/418831/pexels-photo-418831.jpeg?cs=srgb&dl=pexels-rudolf-jakkel-418831.jpg&fm=jpg);
+    height: 200vh;
+}
+.container .item {
+    border-bottom: 2px solid whitesmoke;
+    background-color: white;
+    padding: 10px;
+    color: black;
+    position: relative;
+    top: 40px;
+}
+.unorderedlist{
+    padding:10px;
+    margin-top: 200px;
+}
